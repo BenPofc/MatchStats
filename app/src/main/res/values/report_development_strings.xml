@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="match_report_export">Exportar PDF</string>
+    <string name="match_report_share">Compartilhar relatório</string>
+    <string name="match_report_title">Relatório de partida</string>
+    <string name="match_report_result">Placar final</string>
+    <string name="match_report_opponents">Adversário · %1$s</string>
+    <string name="match_report_team">Equipe · %1$s</string>
+    <string name="match_report_page">Página %1$d de %2$d</string>
+    <string name="match_report_columns">Colunas %1$d–%2$d de %3$d</string>
+    <string name="match_report_jersey">Nº</string>
+    <string name="match_report_saved">Relatório PDF salvo.</string>
+    <string name="match_report_error">Não foi possível gerar ou abrir o relatório PDF. Tente novamente.</string>
+    <string name="match_report_unavailable">O relatório está disponível para partidas com placar final.</string>
+    <string name="match_report_no_columns">Nenhuma coluna de estatísticas habilitada.</string>
+    <string name="match_report_no_players">Nenhum jogador registrado nesta seção.</string>
+    <string name="match_report_no_measurements">— indica uma medição indisponível.</string>
+    <string name="match_report_location">Local · %1$s</string>
+    <string name="match_report_opponent_player">Jogador adversário</string>
+    <string name="match_report_opponent_totals">Totais do adversário</string>
+    <string name="development_title">Evolução</string>
+    <string name="development_show_player">Ver evolução de %1$s</string>
+    <string name="development_metric">Estatística</string>
+    <string name="development_range">Período</string>
+    <string name="development_week">7 dias</string>
+    <string name="development_month">30 dias</string>
+    <string name="development_quarter">90 dias</string>
+    <string name="development_year">1 ano</string>
+    <string name="development_all">Tudo</string>
+    <string name="development_all_drills">Todos os exercícios</string>
+    <string name="development_no_team">Práticas sem equipe</string>
+    <string name="development_no_data">Nenhuma observação neste filtro.</string>
+    <string name="development_no_data_hint">Selecione outro período, equipe ou estatística.</string>
+    <string name="development_no_values">Sem tentativas válidas neste período.</string>
+    <string name="development_total">Total</string>
+    <string name="development_average">Média por sessão</string>
+    <string name="development_observations">Observações</string>
+    <string name="development_accuracy">Aproveitamento</string>
+    <string name="development_history">Histórico cronológico</string>
+    <string name="development_chart_accessibility">Gráfico de %1$s. Selecione uma observação no histórico para consultar os valores.</string>
+    <string name="development_pair_detail">%1$s/%2$s · %3$s</string>
+    <string name="development_two_percent">Aproveitamento de 2 pontos</string>
+    <string name="development_pass_percent">Precisão de passes</string>
+    <string name="development_practices_count">Práticas concluídas</string>
+    <string name="development_repetitions">Repetições</string>
+    <string name="development_versus">%1$s × %2$s</string>
+</resources>

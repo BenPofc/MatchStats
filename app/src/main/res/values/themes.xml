@@ -1,0 +1,8 @@
+<resources>
+    <style name="Base.Theme.MatchStats" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/matchstats_navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">@color/matchstats_green</item>
+    </style>
+    <style name="Theme.MatchStats" parent="Base.Theme.MatchStats" />
+</resources>
